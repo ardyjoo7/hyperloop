@@ -2,7 +2,7 @@
 
 Cara Pakai :
  
-1. Kemudian Unzip
+1. Extract/Unzip
 2. Masukkan License (Bebas)
 3. Login dengan akun ig kalian
 4. Ketik 3 (untuk skip proxy)
